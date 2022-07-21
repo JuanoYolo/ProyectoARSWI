@@ -16,7 +16,7 @@
 - Luis Daniel Benavides Navarro (Dueño de Producto)
 
 ## Pagina en Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://slackarsw.herokuapp.com/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://chatarsw.herokuapp.com)
 
 ### Descripción del producto
 #### Descripción general
@@ -37,7 +37,7 @@ su uso suele ser para la administración de proyectos entre varias personas
 ![](https://aem.dropbox.com/cms/content/dam/dropbox/www/en-us/business/app-integrations/slack/Slack_logo_new.png)
 
 ### Manual para el usuario
-Al ingresar a [ChatARSW](https://slackarsw.herokuapp.com/)
+Al ingresar a [ChatARSW](https://chatarsw.herokuapp.com)
 
 #### Autenticación
 
